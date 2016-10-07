@@ -1,7 +1,25 @@
 {
-  "name": "HelloIonic",
-  "private": "true",
-  "devDependencies": {
-    "ionic": "driftyco/ionic-bower#1.2.4"
-  }
+  "name": "ionic-swiped-tabs",
+  "version": "1.1.0",
+  "homepage": "https://github.com/newsof1111/ionic_swiped-tabs-v1.1",
+  "authors": [
+    "karraysoufien <karraysoufien@gmail.com>"
+  ],
+  "description": "Fork from https://github.com/newsof1111/ionic_swiped-tabs-v1.1",
+  "main": ["src/js/slidingTabsDirective.js","src/css/slidingTabs.css"],
+  "keywords": [
+    "ionic",
+    "Tabs",
+    "Swiped"
+  ],
+  "license": "karraysoufien <karraysoufien@gmail.com>",
+  "ignore": [
+    "hooks",
+    "platforms",
+    "plugins",
+    "resources",
+    "scss"
+
+  ]
 }
+
